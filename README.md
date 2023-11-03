@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroojrana&label=Profile%20views&color=0e75b6&style=flat" alt="aroojrana" /> </p>
 
-- 🔭 I’m currently working on [AlleImran](https://alleimran.com)
+- 🔭 I’m currently working on [AlleImran](https://alleimran.com) and [Billa Technologies(https://bt.alleimran.com)]
 
 - 👨‍💻 One of my projects are available at [https://apps.apple.com/pk/app/vitalpursuit/id1591613705](https://apps.apple.com/pk/app/vitalpursuit/id1591613705)
 
