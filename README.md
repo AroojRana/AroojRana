@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arooj iftikhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arooj iftikhar" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/arooj iftikhar](https://www.linkedin.com/in/arooj-iftikhar-aa0533179)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arooj iftikhar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19406505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19406505" height="30" width="40" /></a>
 </p>
 
